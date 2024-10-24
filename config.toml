@@ -1,0 +1,5 @@
+[visualizer]
+program_path = "C:/Users/Аня/config2"
+package_name = "microsoft.extensions.dependencyinjection.9.0.0-rc.2.24473.5"
+output_image = "dependencies_graph"
+max_depth = 3
